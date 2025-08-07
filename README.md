@@ -4,4 +4,4 @@
 
 🔍 Currently exploring the world of **Data Science** and **Machine Learning**.
 
-💻 Passionate about applying **Python** programming – especially in data science and ML – to the world of biomedical and laboratory sciences.
+💻 Passionate about applying **Python** programming – especially in Data Science and ML – to the world of Biomedical and Laboratory sciences.
